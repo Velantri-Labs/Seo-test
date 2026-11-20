@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="t d">
+  <title id="t">The eight planets of the Solar System</title>
+  <desc id="d">Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune in order of distance from the Sun. Not to scale.</desc>
+  <defs>
+    <radialGradient id="sun"><stop offset="0" stop-color="#fffbe0"/><stop offset=".45" stop-color="#ffd166"/><stop offset=".7" stop-color="#ff8c1a"/><stop offset=".85" stop-color="#ff6a00" stop-opacity=".45"/><stop offset="1" stop-color="#ff6a00" stop-opacity="0"/></radialGradient>
+    <radialGradient id="me" cx=".3" cy=".3"><stop offset="0" stop-color="#d9d4cf"/><stop offset="1" stop-color="#4a4440"/></radialGradient>
+    <radialGradient id="ve" cx=".3" cy=".3"><stop offset="0" stop-color="#fff1c4"/><stop offset="1" stop-color="#8a5a20"/></radialGradient>
+    <radialGradient id="ea" cx=".3" cy=".3"><stop offset="0" stop-color="#a7e8ff"/><stop offset=".5" stop-color="#2f7fd6"/><stop offset="1" stop-color="#0b2350"/></radialGradient>
+    <radialGradient id="ma" cx=".3" cy=".3"><stop offset="0" stop-color="#ffc0a0"/><stop offset="1" stop-color="#6d220f"/></radialGradient>
+    <radialGradient id="ju" cx=".3" cy=".3"><stop offset="0" stop-color="#fbe3c3"/><stop offset=".55" stop-color="#c08a5a"/><stop offset="1" stop-color="#4a2c17"/></radialGradient>
+    <radialGradient id="sa" cx=".3" cy=".3"><stop offset="0" stop-color="#fff3cf"/><stop offset="1" stop-color="#7a5c2b"/></radialGradient>
+    <radialGradient id="ur" cx=".3" cy=".3"><stop offset="0" stop-color="#e2ffff"/><stop offset="1" stop-color="#18545c"/></radialGradient>
+    <radialGradient id="ne" cx=".3" cy=".3"><stop offset="0" stop-color="#b4c8ff"/><stop offset="1" stop-color="#0d1650"/></radialGradient>
+  </defs>
+  <rect width="1200" height="520" fill="#070918"/>
+  <g fill="#fff" opacity=".7"><circle cx="210" cy="60" r="1"/><circle cx="400" cy="440" r="1.4"/><circle cx="620" cy="80" r="1"/><circle cx="760" cy="470" r="1.2"/><circle cx="980" cy="50" r="1.4"/><circle cx="1120" cy="420" r="1"/><circle cx="520" cy="300" r=".8"/><circle cx="880" cy="120" r=".8"/><circle cx="300" cy="140" r=".9"/><circle cx="1060" cy="250" r=".9"/></g>
+  <circle cx="-40" cy="260" r="170" fill="url(#sun)"/>
+  <line x1="120" y1="260" x2="1180" y2="260" stroke="#7c5cff" stroke-opacity=".35" stroke-dasharray="4 8"/>
+  <circle cx="180" cy="260" r="9" fill="url(#me)"/>
+  <circle cx="245" cy="260" r="16" fill="url(#ve)"/>
+  <circle cx="320" cy="260" r="17" fill="url(#ea)"/>
+  <circle cx="390" cy="260" r="12" fill="url(#ma)"/>
+  <circle cx="540" cy="260" r="78" fill="url(#ju)"/>
+  <ellipse cx="760" cy="260" rx="120" ry="22" fill="none" stroke="#e8d2a0" stroke-opacity=".7" stroke-width="7" transform="rotate(-12 760 260)"/>
+  <circle cx="760" cy="260" r="64" fill="url(#sa)"/>
+  <circle cx="950" cy="260" r="36" fill="url(#ur)"/>
+  <circle cx="1090" cy="260" r="34" fill="url(#ne)"/>
+  <g fill="#c9cdea" font-family="Segoe UI, Arial, sans-serif" font-size="16" text-anchor="middle">
+    <text x="180" y="380">Mercury</text><text x="245" y="410">Venus</text><text x="320" y="380">Earth</text><text x="390" y="410">Mars</text>
+    <text x="540" y="380">Jupiter</text><text x="760" y="380">Saturn</text><text x="950" y="380">Uranus</text><text x="1090" y="380">Neptune</text>
+  </g>
+</svg>

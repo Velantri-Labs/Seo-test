@@ -1,0 +1,22 @@
+# robots.txt for Orbitra — https://seo-test.vercel.app
+User-agent: *
+Allow: /
+Disallow: /404
+
+# AI / answer-engine crawlers are welcome (AEO / GEO)
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://seo-test.vercel.app/sitemap.xml

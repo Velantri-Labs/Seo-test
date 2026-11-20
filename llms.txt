@@ -1,0 +1,47 @@
+# Orbitra
+
+> Orbitra is a free, interactive 3D guide to the Solar System. It covers all eight planets with fact sheets, landmark space missions, an astronomy glossary and beginner stargazing guides. No accounts, no ads, no tracking.
+
+## Main pages
+
+- [Orbitra — Explore the Solar System in Interactive 3D](https://seo-test.vercel.app/): Home: scroll-driven 3D tour of Mercury to Neptune, planet size comparison, statistics, a 1957–2021 exploration timeline, featured guides and an FAQ.
+- [The 8 Planets of the Solar System: Facts](https://seo-test.vercel.app/planets): Overview of all eight planets with size, distance, orbital period and links to detailed pages.
+- [Free Astronomy Guides for Beginners](https://seo-test.vercel.app/guides): Index of Orbitra's beginner astronomy guides.
+- [16 Space Missions That Changed Astronomy](https://seo-test.vercel.app/missions): Sixteen landmark space missions from 1957 to 2023 by NASA, ESA, ISRO, CSA, ASI and the Soviet Union, filterable by category.
+- [Astronomy Glossary: 24 Terms Explained](https://seo-test.vercel.app/glossary): Plain-English definitions of 24 essential astronomy terms (AU, ecliptic, opposition, light-year, Kuiper belt, Lagrange point and more).
+
+## Planets
+
+- [Earth Facts: Size, Orbit, Moons & Missions](https://seo-test.vercel.app/planets/earth): Earth — Our ocean world and the only known home of life. Key facts, atmosphere, surface, missions and observing tips.
+- [Jupiter Facts: Size, Orbit, Moons & Missions](https://seo-test.vercel.app/planets/jupiter): Jupiter — The colossal king of the planets. Key facts, atmosphere, surface, missions and observing tips.
+- [Mars Facts: Size, Orbit, Moons & Missions](https://seo-test.vercel.app/planets/mars): Mars — The dusty red planet of giant volcanoes. Key facts, atmosphere, surface, missions and observing tips.
+- [Mercury Facts: Size, Orbit, Moons & Missions](https://seo-test.vercel.app/planets/mercury): Mercury — The swift, scorched innermost world. Key facts, atmosphere, surface, missions and observing tips.
+- [Neptune Facts: Size, Orbit, Moons & Missions](https://seo-test.vercel.app/planets/neptune): Neptune — The windswept blue world at the edge. Key facts, atmosphere, surface, missions and observing tips.
+- [Saturn Facts: Size, Orbit, Moons & Missions](https://seo-test.vercel.app/planets/saturn): Saturn — The jewel of the Solar System. Key facts, atmosphere, surface, missions and observing tips.
+- [Uranus Facts: Size, Orbit, Moons & Missions](https://seo-test.vercel.app/planets/uranus): Uranus — The tilted ice giant that rolls around the Sun. Key facts, atmosphere, surface, missions and observing tips.
+- [Venus Facts: Size, Orbit, Moons & Missions](https://seo-test.vercel.app/planets/venus): Venus — Earth's scorching, cloud-wrapped twin. Key facts, atmosphere, surface, missions and observing tips.
+
+## Guides
+
+- [How to Choose Your First Telescope](https://seo-test.vercel.app/guides/choosing-your-first-telescope): Refractors, reflectors and Dobsonians explained — plus why aperture matters more than magnification.
+- [How to see the planets in the night sky](https://seo-test.vercel.app/guides/how-to-see-planets-night-sky): Spot five planets without a telescope: when to look, where to look and how to tell planets from stars.
+- [Moon Phases Explained: All 8 Phases in Order](https://seo-test.vercel.app/guides/moon-phases-explained): Why the Moon changes shape, the eight phases in order, and the best phase for observing craters.
+
+## About
+
+- [About Orbitra — Our Mission to Make Astronomy Accessible](https://seo-test.vercel.app/about): Learn why Orbitra was built, how we check our facts against NASA, ESA and IAU data, and our commitment to free, accessible astronomy education for everyone.
+- [Privacy Notice](https://seo-test.vercel.app/privacy): Orbitra's privacy notice: we use no accounts, no tracking cookies and no advertising. Learn what limited technical data our hosting provider may process.
+
+## Key facts
+
+- The Solar System has eight planets; Pluto was reclassified as a dwarf planet by the IAU in 2006.
+- Jupiter is the largest planet; Venus is the hottest (~465 °C); Saturn has the most known moons (270+).
+- Sunlight takes about 8 minutes 20 seconds to reach Earth (1 AU ≈ 149.6 million km).
+- The Sun holds about 99.86% of the Solar System's mass.
+
+## Sources
+
+- [NASA Science — Solar System](https://science.nasa.gov/solar-system/)
+- [ESA Space Science](https://www.esa.int/Science_Exploration/Space_Science)
+- [ISRO](https://www.isro.gov.in/)
+- [International Astronomical Union](https://www.iau.org/)

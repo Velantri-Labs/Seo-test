@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://seo-test.vercel.app/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://seo-test.vercel.app/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://seo-test.vercel.app/"/>
+    <image:image>
+      <image:loc>https://seo-test.vercel.app/assets/img/og-image.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://seo-test.vercel.app/planets</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://seo-test.vercel.app/planets"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://seo-test.vercel.app/planets"/>
+  </url>
+  <url>
+    <loc>https://seo-test.vercel.app/guides</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://seo-test.vercel.app/guides"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://seo-test.vercel.app/guides"/>
+  </url>
+  <url>
+    <loc>https://seo-test.vercel.app/guides/choosing-your-first-telescope</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://seo-test.vercel.app/guides/choosing-your-first-telescope"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://seo-test.vercel.app/guides/choosing-your-first-telescope"/>
+  </url>
+  <url>
+    <loc>https://seo-test.vercel.app/guides/how-to-see-planets-night-sky</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://seo-test.vercel.app/guides/how-to-see-planets-night-sky"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://seo-test.vercel.app/guides/how-to-see-planets-night-sky"/>
+    <image:image>
+      <image:loc>https://seo-test.vercel.app/assets/img/solar-system-diagram.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://seo-test.vercel.app/guides/moon-phases-explained</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://seo-test.vercel.app/guides/moon-phases-explained"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://seo-test.vercel.app/guides/moon-phases-explained"/>
+  </url>
+  <url>
+    <loc>https://seo-test.vercel.app/missions</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://seo-test.vercel.app/missions"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://seo-test.vercel.app/missions"/>
+  </url>
+  <url>
+    <loc>https://seo-test.vercel.app/planets/earth</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://seo-test.vercel.app/planets/earth"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://seo-test.vercel.app/planets/earth"/>
+  </url>
+  <url>
+    <loc>https://seo-test.vercel.app/planets/jupiter</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://seo-test.vercel.app/planets/jupiter"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://seo-test.vercel.app/planets/jupiter"/>
+  </url>
+  <url>
+    <loc>https://seo-test.vercel.app/planets/mars</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://seo-test.vercel.app/planets/mars"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://seo-test.vercel.app/planets/mars"/>
+  </url>
+  <url>
+    <loc>https://seo-test.vercel.app/planets/mercury</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://seo-test.vercel.app/planets/mercury"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://seo-test.vercel.app/planets/mercury"/>
+  </url>
+  <url>
+    <loc>https://seo-test.vercel.app/planets/neptune</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://seo-test.vercel.app/planets/neptune"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://seo-test.vercel.app/planets/neptune"/>
+  </url>
+  <url>
+    <loc>https://seo-test.vercel.app/planets/saturn</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://seo-test.vercel.app/planets/saturn"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://seo-test.vercel.app/planets/saturn"/>
+  </url>
+  <url>
+    <loc>https://seo-test.vercel.app/planets/uranus</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://seo-test.vercel.app/planets/uranus"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://seo-test.vercel.app/planets/uranus"/>
+  </url>
+  <url>
+    <loc>https://seo-test.vercel.app/planets/venus</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://seo-test.vercel.app/planets/venus"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://seo-test.vercel.app/planets/venus"/>
+  </url>
+  <url>
+    <loc>https://seo-test.vercel.app/glossary</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://seo-test.vercel.app/glossary"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://seo-test.vercel.app/glossary"/>
+  </url>
+  <url>
+    <loc>https://seo-test.vercel.app/about</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://seo-test.vercel.app/about"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://seo-test.vercel.app/about"/>
+  </url>
+  <url>
+    <loc>https://seo-test.vercel.app/privacy</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://seo-test.vercel.app/privacy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://seo-test.vercel.app/privacy"/>
+  </url>
+</urlset>
