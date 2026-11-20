@@ -1,7 +1,7 @@
 /* TEAM */
 Project: Orbitra
 Organisation: Velantri Labs
-Site: https://seo-test.vercel.app
+Site: https://seo-test-teal.vercel.app
 Source: https://github.com/Velantri-Labs/Seo-test
 
 /* SITE */

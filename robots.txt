@@ -1,4 +1,4 @@
-# robots.txt for Orbitra — https://seo-test.vercel.app
+# robots.txt for Orbitra — https://seo-test-teal.vercel.app
 User-agent: *
 Allow: /
 Disallow: /404
@@ -19,4 +19,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://seo-test.vercel.app/sitemap.xml
+Sitemap: https://seo-test-teal.vercel.app/sitemap.xml
